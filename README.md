@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # urjotsav
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Urjotsav
+Urjotsav is a dynamic event management application crafted with Flutter, focused on simplifying event organization and management. This app offers a comprehensive suite of tools to streamline the planning process and enhance the experience for both event organizers and attendees.
+>>>>>>> origin/main
