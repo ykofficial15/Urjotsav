@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "32416800889",
+    "project_id": "urjotsav-ae262",
+    "storage_bucket": "urjotsav-ae262.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32416800889:android:68b3c1abfbf2396b7cb4a8",
+        "android_client_info": {
+          "package_name": "com.example.urjotsav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32416800889-io3rugreh0j7hr6h40eea5osvi1vlgdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYiPNhIV2R-mv6FYWL6c5xrS2R4et5XS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32416800889-io3rugreh0j7hr6h40eea5osvi1vlgdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
